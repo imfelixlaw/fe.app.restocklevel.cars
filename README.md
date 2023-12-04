@@ -1,2 +1,4 @@
-# fe.app.restocklevel.cars
-frontend apps to enter restock level for cars sdn bhd
+# restocklevel.app
+frontend apps to enter restock level (configuration) for cars sdn bhd
+
+backend did not included in this
